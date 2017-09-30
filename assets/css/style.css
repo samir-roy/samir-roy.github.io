@@ -943,7 +943,8 @@ Home Section style
 
 .scrooldown{
     position: absolute;
-    left: 48.5%;
+    left: 50%;
+    right: 50%;
     bottom: 10%;
     width: 40px;
     height: 40px;
@@ -952,6 +953,7 @@ Home Section style
     border-radius: 50%;
     text-align: center;
     z-index: 3;
+    transform: translate(-50%, -50%);
 }
 .scrooldown a i{
     font-size:0.775rem;
@@ -1230,7 +1232,6 @@ Download Section style
 }
 .download_item h5{
     line-height: 1.5rem;
-    width:70%;
 }
 .download_item img.app_right{
     position: relative;

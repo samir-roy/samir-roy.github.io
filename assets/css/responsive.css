@@ -40,6 +40,15 @@ Author URI: http://www.xpeedstudio.com
 /* Portrait tablets and small desktops */
 @media (max-width: 991px) {
 
+    .download_item {
+        text-align: center !important;
+    }
+    .main_home {
+        text-align: center !important;
+        padding-top: 80px;
+        padding-bottom: 230px;
+    }
+
     .sm-text-center{
         text-align: center !important;
     }
@@ -100,6 +109,7 @@ Author URI: http://www.xpeedstudio.com
 
 
 /* Landscape phones and portrait tablets */
+
 @media  (max-width: 768px) {
     h2{
         font-size:2rem;
@@ -141,8 +151,6 @@ Author URI: http://www.xpeedstudio.com
     .attr_deg4 {
         left: 10%;
     }
-
-
 }
 
 
