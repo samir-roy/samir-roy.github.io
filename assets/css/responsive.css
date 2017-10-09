@@ -161,6 +161,17 @@ Author URI: http://www.xpeedstudio.com
     html {
         font-size: 85%;
     }
+    .main_home {
+        padding-top: 33px;
+    }
+    .home_text h1{
+        font-size:2.5rem;
+        line-height: 1rem;
+    }
+    h5 {
+        font-size: 1rem;
+        line-height: 1rem
+    }
     .cloudy {
         top: 255px;
         right: -190px;
@@ -185,23 +196,17 @@ Author URI: http://www.xpeedstudio.com
     .attr_deg4 {
         left: 0%;
     }
+    .samiroyImage {
+        height: 33%;
+        width: 33%;
+    }
 }
 
-
-
-
-
-@media (max-width: 400px) {
-
-
-}
 
 @media (max-width: 320px) {
     html {
         font-size: 60.5%;
     }
-
-
 }
 
 

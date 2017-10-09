@@ -122,11 +122,11 @@ section { overflow: hidden; }
 .lightbg {
     background-color: #f2f2f2;
 }
-.bg-primary{background-color: #9DB8D5;}
+.bg-primary{background-color: rgb(228, 228, 228);}
 .bg-finence{background-color:#13A0B2;}
 .bg-mega{background-color:#6a6b6c;}
 .bg-grey{background-color: #f5f5f5;}
-.bg-black{background-color: #44404D;}
+.bg-black{background-color: rgb(56, 53, 63);}
 .bg-white{background-color: #fff;}
 
 img {
@@ -231,7 +231,7 @@ h6 {
 
 h1 {
     font-size: 3rem;
-    line-height: 4rem;
+    line-height: 4rem; 
 }
 h2 {
     font-size: 2.5rem;
@@ -253,7 +253,9 @@ h6 {
     font-size: 1rem;
 }
 
-
+.etTitle {
+    color:#ce2954;
+}
 
 h1 span,
 h2 span,
